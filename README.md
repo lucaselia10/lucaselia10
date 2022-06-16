@@ -1,7 +1,7 @@
 Hi there 👋, I'm Lucas
 
-
+- 🍞 Microsoft 365 & Sharepoint Consultant / Backend Developer
 - 🔭 I’m currently working on graduating BloomTechs's Backend Development Program
-- 🌱 I’m currently learning Java, AWS, Azure
-- 📫 How to reach me: www.linkedin.com/in/lucaselia
+- 🌱 Learning Java, AWS, Azure, Powershell
+- 📫 How to reach me: www.linkedin.com/in/lucaselia || alexanderlucaselia@gmail.com
 
